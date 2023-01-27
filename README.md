@@ -1,16 +1,13 @@
 # animated_responsive_layout
 
-A new Flutter project.
+Building an animated responsive app layout with Material 3 following this [codelab](https://codelabs.developers.google.com/codelabs/flutter-animated-responsive-layout)
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Use adaptive design, so it works on desktop or mobile.
 
-A few resources to get you started if this is your first Flutter project:
+- Use animation to easily and fluidly switch between different layouts.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Use Material 3 for expressive styling.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Run on Android, iOS, the web, Windows, Linux, and macOS.
